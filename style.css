@@ -1,0 +1,26 @@
+header{
+    background-color: #2C3E50;
+    height: 100px;
+}
+
+.debug{
+    border: 2px dashed red;
+}
+.green{
+    background-color:#1ABC9C ;
+}
+.gray{
+    background-color:#3A546D ;
+}
+.dark-gray{
+    background-color: #2C3E50;
+}
+.height{
+    min-height: 150px;
+}
+section{
+    min-height:300px ;
+}
+footer{
+    min-height: 100px;
+}
