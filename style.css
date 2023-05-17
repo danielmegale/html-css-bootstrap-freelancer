@@ -24,3 +24,6 @@ section{
 footer{
     min-height: 100px;
 }
+.w-img{
+    max-width: 100px;
+}
